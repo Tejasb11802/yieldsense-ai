@@ -1,4 +1,4 @@
-# ⚙️ YieldSense AI — Semiconductor Yield Intelligence Platform
+# YieldSense AI — Semiconductor Yield Intelligence Platform
 
 **Built by Tejas Bhanushali** | ASU MS Data Science, Analytics & Engineering | May 2026
 
