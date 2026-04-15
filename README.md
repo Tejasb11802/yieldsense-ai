@@ -12,7 +12,7 @@
 
 ## What is YieldSense AI?
 
-YieldSense AI is a full-stack semiconductor wafer yield intelligence platform that predicts wafer yield from inline FDC (Fault Detection and Classification) process parameters — before a lot reaches costly end-of-line testing.
+YieldSense AI is a full-stack semiconductor wafer yield intelligence platform that predicts wafer yield from inline FDC (Fault Detection and Classification) process parameters, before a lot reaches costly end-of-line testing.
 
 Built as a targeted portfolio project for **Microchip Technology's Engineer II Software Development role (R1502-26)** in Chandler, AZ. The project directly mirrors the team's stated mission: transforming how production data is collected, analyzed, and put into action across manufacturing sites.
 
@@ -24,7 +24,7 @@ In semiconductor manufacturing, a wafer lot goes through hundreds of process ste
 
 **Without YieldSense:** A yield engineer manually digs through FDC parameter logs after a lot fails, spending hours finding the root cause.
 
-**With YieldSense:** The ML model reads inline FDC parameters during production and predicts yield percentage before the lot finishes processing. Engineers get an early warning with specific recommended actions — enabling intervention before failure occurs.
+**With YieldSense:** The ML model reads inline FDC parameters during production and predicts yield percentage before the lot finishes processing. Engineers get an early warning with specific recommended actions, enabling intervention before failure occurs.
 
 ---
 
@@ -172,8 +172,8 @@ This project was built after reading the Engineer II Software Development job de
 **Job description says:** "Develop and deploy AI/ML models and LLM-based solutions that automate analysis and surface actionable insights for engineers."
 **This project:** Gradient Boosting model predicting yield from FDC parameters, surfacing risk level and recommended action.
 
-**Job description says:** "Work directly with end-users — test engineers, yield engineers — to understand their problems and ship solutions."
-**This project:** Built around the yield engineer workflow — FDC readings in, yield prediction and recommended action out.
+**Job description says:** "Work directly with end-users, test engineers, yield engineers, to understand their problems and ship solutions."
+**This project:** Built around the yield engineer workflow, FDC readings in, yield prediction and recommended action out.
 
 **Preferred qualification:** "Experience with web front-end technologies (JavaScript, React)"
 **This project:** Full React.js frontend with 3 pages, Recharts visualisations, and React Router navigation.
